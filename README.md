@@ -1,7 +1,5 @@
 # Book Reading Planner
 
-**Live app:** Not deployed yet. Run locally with `streamlit run app.py` and paste your own Gemini key in the sidebar.
-
 ## Topic and user
 
 This agent is for students who want to browse a small book catalog and make a simple reading plan. It can look up a genre, estimate reading days from a daily page goal, and draft a plan for the student to review.
